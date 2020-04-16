@@ -1,8 +1,12 @@
 # gruvbuddy.nvim
 
-Gruvbox colors using github.com/tjdevries/coloruddy.vim
+Gruvbox-esque colors using github.com/tjdevries/coloruddy.vim
 
-This is an example plugin of how easy it is to customize and make new colorschemes based on `colorbuddy`.
+![screen](./media/screenshot.png)
+
+This plugin is also an example of how easy it is to customize and make new colorschemes based on `colorbuddy`.
+
+Check out `lua/gruvbuddy.lua`
 
 ## Installation
 
