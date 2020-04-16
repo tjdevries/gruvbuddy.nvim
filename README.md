@@ -1,6 +1,6 @@
 # gruvbuddy.nvim
 
-Gruvbox-esque colors using github.com/tjdevries/coloruddy.vim
+Gruvbox-esque colors using [tjdevries/colorbuddy.vim](github.com/tjdevries/colorbuddy.vim)
 
 ![screen](./media/screenshot.png)
 
