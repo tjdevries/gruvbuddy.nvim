@@ -1,5 +1,7 @@
 require("colorbuddy").setup()
 
+local Color = require('colorbuddy').Color
+
 Color.new('white',     '#f2e5bc')
 Color.new('red',       '#cc6666')
 Color.new('pink',      '#fef601')
