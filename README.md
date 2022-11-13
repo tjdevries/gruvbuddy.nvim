@@ -10,10 +10,25 @@ Check out `lua/gruvbuddy.lua`
 
 ## Installation
 
+### packer
+```lua
+use { 'tjdevries/gruvbuddy.nvim', requires = 'tjdevries/colorbuddy.vim'}
+```
+
+### vim-plug 
 ```vim
 Plug 'tjdevries/colorbuddy.vim'
 Plug 'tjdevries/gruvbuddy.nvim'
+```
 
-" And then somewhere in your vimrc, to set the colorscheme
-lua require('colorbuddy').colorscheme('gruvbuddy')
+
+### Usage
+somewhere in your init.vim
+```vim
+colorscheme gruvbuddy
+```
+
+or if you have a lua configuration
+```lua
+vim.cmd [[ colorscheme gruvbuddy ]]
 ```

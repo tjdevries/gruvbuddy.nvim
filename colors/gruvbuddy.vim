@@ -1,1 +1,1 @@
-" Nothing needs to be here... we have gruvbuddy installed via lua
+lua require('colorbuddy').colorscheme('gruvbuddy')
