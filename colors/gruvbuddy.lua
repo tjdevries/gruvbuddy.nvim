@@ -1,1 +1,0 @@
-require('colorbuddy').colorscheme('gruvbuddy')
